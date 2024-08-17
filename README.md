@@ -18,6 +18,6 @@ Zur Produktfamilie der LOGO! Kleinsteuerungen gehören alle, für den Aufbau ein
 + Programmiersoftware
 + Die einzelnen Komponenten können individuell kombiniert und verschaltet werden.
 
-  LOGO! Box
+  LOGO! Box für den Test der Programme:
 
   ![Bild](LOGO.png)
