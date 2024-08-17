@@ -22,3 +22,4 @@ Au√üerdem wird der Text der Meldung je nach aktuell eingestelltem Zeichensatz f√
 ![Bild](Fuellstation.png)
 
 
+
