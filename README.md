@@ -20,4 +20,4 @@ Zur Produktfamilie der LOGO! Kleinsteuerungen gehören alle, für den Aufbau ein
 
   LOGO! Box
 
-  ![Bild](Logo.png)
+  ![Bild](LOGO.png)
