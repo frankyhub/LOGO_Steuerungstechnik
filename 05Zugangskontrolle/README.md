@@ -17,4 +17,4 @@ Technologieschema:
   ![Bild](Technologieschema.png)
 
 
-  ![Bild](Zugangskontolle.png)
+  ![Bild](Zugangskontrolle.png)
