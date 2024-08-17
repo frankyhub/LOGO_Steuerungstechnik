@@ -1,4 +1,4 @@
-Rührbehälter
+Ablaufsteuerung Rührbehälter
 
 In einem Behälter wird erst Flüssigkeit 1, dann Flüssigkeit 2 eingefüllt. Anschließend werden die Flüssigkeiten verrührt und nach der Verrührzeit aus dem Behälter abgepumpt. B1, B2 und B3 geben eine 1 aus, wenn sie mit Flüssigkeit bedeckt sind.
 
