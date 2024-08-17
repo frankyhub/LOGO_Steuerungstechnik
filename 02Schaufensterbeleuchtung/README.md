@@ -9,4 +9,4 @@ Verwendete Komponenten:
 + Q1 Heizungsschütz
 + Q2 Warnleuchte
 
-  ![Bild](Braukessel.png)
+  ![Bild](Schaufensterbeleuchtung.png)
