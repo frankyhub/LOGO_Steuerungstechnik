@@ -16,7 +16,7 @@ Im Schritt 1 muss beim Einschalten der Anlaufmerker M8 aktiv sein. M8 ist im ers
 Die Programmierung der einzelnen Schritte erfolgt immer nach dem gleichen Schema. Ein Schritt wird gesetzt, wenn der vorherige aktiv ist und die Schrittbedingungen erfüllt sind. Der vorherige Schritt wird dann zurückgesetzt. Der aktive Schritt wird auch verlassen, wenn z.B. die Ausschaltbedingung erfüllt ist.
 
 
-
+![Bild](Ruehrbehaelter.png)
 
 
 
