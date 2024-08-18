@@ -1,4 +1,16 @@
-LOGO! Kleinsteuerungen 
+<div align="center">
+
+|[:skull:ISSUE](https://github.com/frankyhub/LOGO_Steuerungstechnik/issues?q=is%3Aissue)|
+[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/LOGO_Steuerungstechnik/discussions?discussions_q=)|
+[:grey_question:WiKi](https://github.com/frankyhub/LOGO_Steuerungstechnik/wiki)|
+|--|--|--|
+|![GitHub issues](https://img.shields.io/github/issues/frankyhub/LOGO_Steuerungstechnik)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/LOGO_Steuerungstechnik)|![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/LOGO_Steuerungstechnik)![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/LOGO_Steuerungstechnik)
+
+
+</div>
+
+
+## LOGO! Kleinsteuerungen 
 
 Als LOGO! Kleinsteuerungen bezeichnet man eine Familie von intelligenten Logikmodulen des Herstellers Siemens. Diese werden zur Automatisierung von Steuerungstechnik eingesetzt. 
 Das System bietet sich vor allem für kleinere Steuerungsaufgaben an und ist vielseitig einsetzbar.
