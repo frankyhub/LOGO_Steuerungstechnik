@@ -9,6 +9,7 @@
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/finaldie/skull.svg)](https://github.com/frankyhub/LOGO_Steuerungstechnik/pulls)
 
 
+
 </div>
 
 
