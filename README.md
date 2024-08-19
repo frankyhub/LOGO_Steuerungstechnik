@@ -5,10 +5,7 @@
 |--|--|--|
 | | | |
 |![GitHub issues](https://img.shields.io/github/issues/frankyhub/LOGO_Steuerungstechnik)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/LOGO_Steuerungstechnik)|![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/LOGO_Steuerungstechnik)|![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/LOGO_Steuerungstechnik)|
-
-
-
-![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)
+|![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|[![GitHub license]https://img.shields.io/github/license/finaldie/skull.svg)](https://github.com/frankyhub/LOGO_Steuerungstechnik/blob/main/LICENSE.md)|[![GitHub license]https://img.shields.io/github/license/finaldie/skull.svg)](https://github.com/frankyhub/LOGO_Steuerungstechnik/blob/main/LICENSE.md)|
 
 
 </div>
