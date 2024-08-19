@@ -7,7 +7,7 @@
 
 [![GitHub license](https://img.shields.io/github/license/finaldie/skull.svg)](https://github.com/frankyhub/LOGO_Steuerungstechnik/blob/main/LICENSE.md)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/finaldie/skull.svg)[](https://github.com/frankyhub/LOGO_Steuerungstechnik/pulls)
-
+![GitHub language count](https://img.shields.io/github/languages/count/finaldie/skull.svg)[](https://github.com/frankyhub/LOGO_Steuerungstechnik/)
 
 
 </div>
