@@ -5,6 +5,15 @@
 | | | |
 |![GitHub issues](https://img.shields.io/github/issues/frankyhub/LOGO_Steuerungstechnik)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/LOGO_Steuerungstechnik)|![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/LOGO_Steuerungstechnik)    ___  ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/LOGO_Steuerungstechnik)
 
+[![Build Status](https://travis-ci.org/finaldie/skull.svg?branch=master)](https://travis-ci.org/finaldie/skull)
+[![GitHub license](https://img.shields.io/github/license/finaldie/skull.svg)]()
+[![Platform](https://img.shields.io/badge/platform-Linux-blue.svg)]()
+![GitHub release](https://img.shields.io/github/release/finaldie/skull.svg)
+![Docker Pulls](https://img.shields.io/docker/pulls/finaldie/skull.svg)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/finaldie/skull.svg)
+![GitHub language count](https://img.shields.io/github/languages/count/finaldie/skull.svg)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/finaldie/skull.svg)
+
 </div>
 
 
