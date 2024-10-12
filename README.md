@@ -1,11 +1,15 @@
+<a name="oben"></a>
+
 <div align="center">
 
-  |[:skull:ISSUE](https://github.com/frankyhub/LOGO_Steuerungstechnik/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Markdown/discussions?discussions_q=)|[:grey_question:WiKi](https://github.com/frankyhub/LOGO_Steuerungstechnik/wiki/Sicherheitsbestimmungen)|
-|--|--|--|
-| | | |
-|![GitHub issues](https://img.shields.io/github/issues/frankyhub/LOGO_Steuerungstechnik)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/LOGO_Steuerungstechnik)|![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/LOGO_Steuerungstechnik)|![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/LOGO_Steuerungstechnik)|
-|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/finaldie/skull.svg)[](https://github.com/frankyhub/LOGO_Steuerungstechnik/pulls)|![GitHub language count](https://img.shields.io/github/languages/count/finaldie/skull.svg)[](https://github.com/frankyhub/LOGO_Steuerungstechnik/) | ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+|[:skull:ISSUE](https://github.com/frankyhub/LOGO_Steuerungstechnik/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/LOGO_Steuerungstechnik/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/LOGO_Steuerungstechnik/wiki)||
+|--|--|--|--|
+| | | | |
+|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2065-blue)|<a href="https://github.com/frankyhub/LOGO_Steuerungstechnik/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/LOGO_Steuerungstechnik)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/LOGO_Steuerungstechnik)|<a href="https://github.com/frankyhub/LOGO_Steuerungstechnik/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/LOGO_Steuerungstechnik)|<a href="https://github.com/frankyhub/LOGO_Steuerungstechnik/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/LOGO_Steuerungstechnik)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/LOGO_Steuerungstechnik)| <a href="https://github.com/frankyhub/LOGO_Steuerungstechnik/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/LOGO_Steuerungstechnik/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
 </div>
+
+
 
 
 
@@ -32,3 +36,12 @@ Zur Produktfamilie der LOGO! Kleinsteuerungen gehören alle, für den Aufbau ein
   LOGO! Box für den Test der Programme:
 
   ![Bild](LOGO.png)
+
+
+  ---
+
+<div style="position:absolute; left:2cm; ">   
+<ol class="breadcrumb" style="border-top: 2px solid black;border-bottom:2px solid black; height: 45px; width: 900px;"> <p align="center"><a href="#oben">nach oben</a></p></ol>
+</div>  
+
+---
