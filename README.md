@@ -2,16 +2,13 @@
 
 <div align="center">
 
-|[:skull:ISSUE](https://github.com/frankyhub/LOGO_Steuerungstechnik/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/LOGO_Steuerungstechnik/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/LOGO_Steuerungstechnik/wiki)||
+|[:skull:ISSUE](https://github.com/frankyhub/Bike-Counter/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Bike-Counter/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Bike-Counter/wiki)||
 |--|--|--|--|
 | | | | |
-|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2065-blue)|<a href="https://github.com/frankyhub/LOGO_Steuerungstechnik/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/LOGO_Steuerungstechnik)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/LOGO_Steuerungstechnik)|<a href="https://github.com/frankyhub/LOGO_Steuerungstechnik/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/LOGO_Steuerungstechnik)|<a href="https://github.com/frankyhub/LOGO_Steuerungstechnik/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/LOGO_Steuerungstechnik)|
-|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/LOGO_Steuerungstechnik)| <a href="https://github.com/frankyhub/LOGO_Steuerungstechnik/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/LOGO_Steuerungstechnik/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+<a href="https://github.com/frankyhub/Bike-Counter/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Bike-Counter)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Bike-Counter)|<a href="https://github.com/frankyhub/Bike-Counter/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Bike-Counter)|<a href="https://github.com/frankyhub/Bike-Counter/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Bike-Counter)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2065-blue)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Bike-Counter)| <a href="https://github.com/frankyhub/Bike-Counter/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Bike-Counter/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
+
 </div>
-
-
-
-
 
 ## LOGO! Kleinsteuerungen 
 
@@ -35,10 +32,10 @@ Zur Produktfamilie der LOGO! Kleinsteuerungen gehören alle, für den Aufbau ein
 
   LOGO! Box für den Test der Programme:
 
-  ![Bild](LOGO.png)
+<img src="pic/LOGO.png" width="500"> 
+<br> <br>
 
-
-  ---
+---
 
 <div style="position:absolute; left:2cm; ">   
 <ol class="breadcrumb" style="border-top: 2px solid black;border-bottom:2px solid black; height: 45px; width: 900px;"> <p align="center"><a href="#oben">nach oben</a></p></ol>
