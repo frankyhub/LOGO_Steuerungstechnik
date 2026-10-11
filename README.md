@@ -32,7 +32,7 @@ Zur Produktfamilie der LOGO! Kleinsteuerungen gehören alle, für den Aufbau ein
 
   LOGO! Box für den Test der Programme:
 
-<img src="pic/LOGO.png" width="500"> 
+<img src="LOGO.png" width="500"> 
 <br> <br>
 
 ---
